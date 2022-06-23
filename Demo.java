@@ -5,5 +5,9 @@ class Demo{
 
      System.out.println("Automatically pull from Git");
      System.out.println("Automatically pull from Git");
+     System.out.println("Automatically pull from Git");
+
+
+     
     }  
 }  
